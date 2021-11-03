@@ -10,4 +10,4 @@ gfdhfg
 
 [Canlıya aldığım web sitesi](url)
 
-![figures]()
+![figures](https://raw.githubusercontent.com/rbeyzas/movieapp/main/figures/Infographic_3.2.4_v2.png)
